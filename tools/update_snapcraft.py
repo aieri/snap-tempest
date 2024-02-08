@@ -5,6 +5,7 @@ tempest, tempest plugins and python-tempestconf release information from
 the OpenStack releases repository and the PYPI RSS feed and modifies the
 snapcraft.yaml file inplace to reflect the changes, should there be any.
 """
+
 import logging
 import shutil
 import sys
